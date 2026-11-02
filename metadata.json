@@ -1,0 +1,6 @@
+{
+  "name": "House Price Prediction MLOps Project",
+  "description": "A beginner-friendly Machine Learning and MLOps practical assignment for house price prediction using Python, Scikit-learn, MLflow, Joblib, and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
